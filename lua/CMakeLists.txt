@@ -13,4 +13,3 @@ target_link_libraries(bson4lua PUBLIC bson)
 install(TARGETS bson4lua
 		LIBRARY DESTINATION lib
 )
-
